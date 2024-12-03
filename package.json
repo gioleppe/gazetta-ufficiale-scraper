@@ -1,0 +1,14 @@
+{
+  "name": "gazzette-ufficiali-scraper",
+  "version": "1.0.0",
+  "description": "scraper for italian laws gazette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommaso Colella",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
